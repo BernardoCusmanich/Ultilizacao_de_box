@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Original+Surfer&family=Raleway:wght@300&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f2d5ce;
+}
+
+main {
+    background-color: whitesmoke;
+    border: 2px;
+    border-style: solid;
+    color: #2A4759;
+    border-radius: 20px;
+    margin-top: 5%;
+    margin-right: 15%;
+    margin-left: 15%;
+    padding: 10px;
+}
+
+header {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+h1 {
+    font-family: 'Original Surfer', cursive;
+    font-weight: 300%;
+    color: #658CBF;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 180%;
+    color: #D98F8F;
+    padding-bottom: 10px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: #2A4759;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+hr {
+    border-top: 1px;
+    border-style: solid;
+    color: #2A4759;
+}
+
+footer {
+    padding-top: 50px;
+    text-align: center;
+}
